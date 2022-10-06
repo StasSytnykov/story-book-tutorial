@@ -24,7 +24,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/bandapixels/story-boock-tutorial",
+    "last_opened_file_path": "/home/bandapixels/story-book-tutorial",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,6 +39,7 @@
       <updated>1665051776542</updated>
       <workItem from="1665051777675" duration="522000" />
       <workItem from="1665052392954" duration="883000" />
+      <workItem from="1665053386346" duration="463000" />
     </task>
     <servers />
   </component>
